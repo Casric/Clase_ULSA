@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+}
+main{
+    width: 650px;
+    margin: 0 auto;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+ul li{
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+ul li a{
+    
+}
+label{
+    display: block;
+}

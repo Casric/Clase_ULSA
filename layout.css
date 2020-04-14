@@ -1,0 +1,49 @@
+body{
+ font-family: sans-serif;   
+}
+
+section{
+    width: 660px;
+    margin: 0 auto;
+}
+
+header, footer{
+background-color: blueviolet;
+padding: 15px;
+}
+
+
+ul{
+    list-style: none;
+    
+}
+
+main{
+    float: left;
+    width: 400px;
+}
+
+aside{
+    float: right;
+    width: 200px;
+}
+
+footer{
+    clear: both;
+}
+
+footer ul{
+    margin: 0;
+    list-style: none;
+}
+
+footer ul li {
+    margin: 0;
+    padding: 0;
+    display: inline;
+    
+}
+
+footer ul li a{
+    text-decoration: none;
+}
